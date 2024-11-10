@@ -3,11 +3,11 @@
 # 💫 About Me:
 
 <!-- <img width="180" height="180" src="https://user-images.githubusercontent.com/47355538/193230350-d371ef15-c4c0-4bba-80c7-c6fb88dce0a5.gif" align=right> -->
-🔭 I’m a Full Stack (MERN) Developer <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning NextJs and Machine Learning<br>
+🔭 I’m a Software Developer <br>👯 I’m looking to collaborate on Open Source projects<br>🌱 I’m currently learning NextJs and Machine Learning<br>
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/360prashant) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-singh-1428aa205) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prashant_360)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-singh-1428aa205) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/prashant_360)
 
 # 💻 Tech Stack:
 
